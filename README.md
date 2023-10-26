@@ -8,4 +8,4 @@ Run / F5 the project : Eg: https://localhost:xxxx/api/Candidate for Task 1
 
 Run / F5 the project : Eg: https://localhost:xxxx/api/Location for Task 2
 
-Run / F5 the project : Eg: https://localhost:xxxx/api/Listings/{numberofpassengers} for Task 3
+Run / F5 the project : Eg: https://localhost:xxxx/api/Listings/{numberofpassengers} OR https://localhost:xxxx/api/Listings/2 for Task 3
